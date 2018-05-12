@@ -1,10 +1,16 @@
 _repo: Pen-Pictures-Of-Eventful-Scenes-and-Struggles-of-Life_47558
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47558-h/images/cover.jpg
 creator:
   author:
     agent_name: Craig, B. F.
     gutenberg_agent_id: '44378'
     url: http://www.gutenberg.org/2009/agents/44378
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47558#Pen-Pictures-Of-Eventful-Scenes-and-Struggles-of-Life
 gutenberg_issued: '2014-12-06'
 gutenberg_type: Text
 identifiers:
